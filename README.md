@@ -1,4 +1,4 @@
-[🇷🇺 Русский](https://github.com/RoganovDA/suno_downloader/blob/main/README_RU.md) | [🇬🇧 English](https://github.com/RoganovDA/suno_downloader/blob/main/README.md)
+[🇷🇺 Русский](https://github.com/RoganovDA/suno_downloader/blob/main/README_RU.md) | 🇺🇸 **English**
 
 # Suno.com Bulk Song Downloader & Parser
 
