@@ -1,0 +1,4 @@
+aiohttp==3.9.3
+tqdm==4.66.4
+mutagen==1.47.0
+Pillow==10.3.0
