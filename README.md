@@ -1,3 +1,5 @@
+[🇷🇺 Русский](https://github.com/RoganovDA/suno_downloader/blob/main/README_RU.md) | [🇬🇧 English](https://github.com/RoganovDA/suno_downloader/blob/main/README.md)
+
 # Suno.com Bulk Song Downloader & Parser
 
 A toolkit for **bulk downloading songs and covers from [suno.com](https://suno.com/create)** using a browser-side parser (`devtool.js`) and a Python async downloader/tagger (`suno.py`).
