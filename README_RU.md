@@ -1,5 +1,20 @@
 🇷🇺 **Русский** | [🇺🇸 English](https://github.com/RoganovDA/suno_downloader/blob/main/README.md)
 
+---
+
+<p align="center">
+  <a href="https://pay.cloudtips.ru/p/5675a192" target="_blank" rel="noopener">
+    <img alt="Поддержать проект"
+         src="https://img.shields.io/badge/💛%20Поддержать%20проект-00D1B2?style=for-the-badge&labelColor=222">
+  </a>
+  <a href="https://pay.cloudtips.ru/p/5675a192" target="_blank" rel="noopener">
+    <img alt="CloudTips"
+         src="https://img.shields.io/badge/CloudTips-0088CC?style=for-the-badge&labelColor=111">
+  </a>
+</p>
+
+---
+
 # Массовый загрузчик и парсер песен Suno.com
 
 Набор для **массового скачивания песен и обложек с [suno.com](https://suno.com/create)**:  
